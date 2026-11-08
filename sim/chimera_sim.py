@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 CHIMERA-1 Cycle-Accurate Behavioural Performance & Contention Model (Revision 2.3)
-Lead Architect: Jack Record — Xoryn Studio
+Lead Architect: Xoryn Studio
 Target Clocks:  2.50 GHz Sustained WAVE-16 GPU (0.74V) / 3.80 GHz Boost FUSE-4 CPU (0.92V)
 
 Addresses All 8 Peer-Review Audit Findings:
