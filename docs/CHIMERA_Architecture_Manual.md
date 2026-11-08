@@ -1,6 +1,6 @@
 # CHIMERA-1 Microarchitecture & ISA Reference Manual
 **Document Revision:** 2.0 (3D-CFET 4.00 GHz Production Baseline)  
-**Lead Architect:** Jack Record (Xoryn Studio / TenRose Silicon Division)  
+**Lead Architect:**(Xoryn Studio / TenRose Silicon Division)  
 **Target Clock Frequency:** 4.00 GHz (250.0 ps Clock Period / ~11 FO4 Gate Delays per Stage)  
 **Process & Packaging:** Inverted 3D-Stacked 2nm CFET Compute Tile (Top) + Base L3/NPU Die (Bottom) with Backside Power Delivery (BSPD)  
 **Core Topology:** `N+1` Unified Elastic CPU/GPU Cores (4-Wide Superscalar `FUSE-4` $\leftrightarrow$ 16-Lane `VEC4` SIMT `WAVE-16` + 1 Permanent `Core G0` 4K120 Anchor GPU)

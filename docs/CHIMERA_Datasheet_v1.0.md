@@ -1,7 +1,7 @@
 # CHIMERA-1 SERIES — TARGET MICROARCHITECTURE & RESEARCH SPECIFICATION
 **Document Number:** XRN-CHM1-ARCH-230  
 **Revision:** 2.3 (128 KB 3-Macro Liquid SRAM, 30-Seed Monte Carlo & Discrete-Event Cache/DMA Revision)  
-**Architect:** Jack Record — Xoryn Studio  
+**Architect:** Xoryn Studio  
 **Target Process Assumptions:** Inverted 3D Stack — Top Compute Tile: 2nm-class CFET (`0.74V` Vdd GPU / `0.92V` Vdd CPU Boost) with Backside Power Delivery (BSPD); Bottom Base Die: 4nm-class FinFET (L3 + NPU + I/O); N4P FinFET (`0.82V`) evaluated as current-node baseline  
 **Hardware Prototype Slice:** IHP SG13CMOS5L 130nm Gate-Level ASIC Slice (`tt_um_xorynstudios_chimera` — DRC-Clean GDSII, `484` Standard Cells, `20.66%` Tile Utilisation)
 
